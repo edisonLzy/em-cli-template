@@ -1,0 +1,17 @@
+module.exports = [
+  {
+    name: 'name',
+    type: 'input',
+    message: '请输入插件名称',
+  },
+  {
+    name: 'description',
+    type: 'input',
+    message: '请输入插件描述',
+  },
+  {
+    name: 'keywords',
+    type: 'input',
+    message: '请输入插件关键字',
+  }
+];
