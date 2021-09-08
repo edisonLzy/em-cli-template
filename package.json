@@ -2,7 +2,7 @@
   "name": "@em-cli/em-plugin-<%= name %>",
   "version": "0.0.1",
   "description": "<%= description %>",
-  "keywords": [<%= keywords %>],
+  "keywords": ["<%= keywords %>"],
   "author": "lizhiyu <656603136@qq.com>",
   "homepage": "",
   "license": "ISC",
