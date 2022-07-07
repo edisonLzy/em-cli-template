@@ -1,11 +1,11 @@
 /**
- * create by em-cli
+ * create by core
  */
-import { defineCommand } from '@em-cli/em-cli';
+import { defineCommand } from '@em-cli/core';
 
 export default defineCommand({
   id: '<%= name %>',
-  description: '本地开发服务器',
+  description: '<%= description %>',
   async run({ args, optionsArgs }) {
     console.log('<%= name %> worked');
   },
